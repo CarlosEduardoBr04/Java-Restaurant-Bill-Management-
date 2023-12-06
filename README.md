@@ -38,8 +38,9 @@ This Java project stands as a practical exercise, crafted to elevate and solidif
 3. **Contribute:**
    - Enhance your Java skills further by contributing to this project. Suggestions and improvements are highly encouraged.
 
-👨‍💻 Author
-[CarlosEduardoBr4](https://github.com/CarlosEduardoBr04) 🚀
+## 👨‍💻 Author
+
+- [CarlosEduardoBr4](https://github.com/CarlosEduardoBr04) 🚀
 
 ## License 📜
 
